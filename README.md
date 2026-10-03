@@ -18,3 +18,5 @@ Given that, this assignment will try to get up to the library website in chapter
 This also neatly makes it so that there's four assignments to do, with the Library Website being Assignment 1, the Library API being assignment 2, the Todo being Assignment 3, and the blog being Assignment 4.
 
 But also like I said, I have no idea if just a website makes for a good assignment 1, but it's what I'm going with.
+
+Edit: Test
