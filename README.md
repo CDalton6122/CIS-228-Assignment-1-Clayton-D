@@ -19,4 +19,4 @@ This also neatly makes it so that there's four assignments to do, with the Libra
 
 But also like I said, I have no idea if just a website makes for a good assignment 1, but it's what I'm going with.
 
-Edit: Test
+Edit: It seems that Chapter 2 doesn't have any code or anything associated with it. I still don't know whether to add the Chapter 4 into Assignment 1, but I will keep to the idea of sticking with four assignments, and splitting up the three projects in the book to make it fit.
